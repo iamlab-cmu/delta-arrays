@@ -1,1 +1,0 @@
-# delta-arrays.github.io
