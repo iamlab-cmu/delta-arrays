@@ -20,7 +20,7 @@
 
 title: Delta Arrays
 email: sarveshp@cs.cmu.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   This website provides a basic tutorial to get started with building a delta
   robot, control a 2x2 module of delta robots using a custom shield, and
   finally provides insights into our research with an 8x8 delta array grid.
