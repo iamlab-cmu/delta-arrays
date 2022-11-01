@@ -71,3 +71,4 @@ Power Shield
 * Insert the 3 linear actuators through the 3 holes in the delta robot holder plexiglass cutout, spaced apart using the 3-½” Long Standoff.
 * Attach the 3 legs of the parallelogram delta links to each of the linear actuators using 8-32 ½” screws and nuts.
 * Follow along [This Guide]({{ site.baseurl }}/electronics/delta_shield_introduction.pdf){:target="_blank"} to learn how to put the electronics together 
+* Use the [single delta shield]({{ site.baseurl }}/electronics/single_delta_shield.zip) to produce the PCB

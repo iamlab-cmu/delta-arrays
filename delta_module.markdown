@@ -82,7 +82,7 @@ Power Shield
 <img src="{{ site.baseurl }}/cad/clip_finger.png"  width="35%" height="35%"/>
 
 * Follow along [This Guide]({{ site.baseurl }}/electronics/delta_shield_introduction.pdf){:target="_blank"} to learn how to put the electronics together.
-
+* Use the [modified delta shield]({{ site.baseurl }}/electronics/single_delta_shield.zip) to produce the PCB for distributing the power to all motors, attach ADC and motor drivers similar to single shield design and short all the VCC and GND pins manually.
 * The final result should look like this: 
 
 <a href="{{ site.baseurl }}/cad/quad_delta.png" target="_blank"><img src="{{ site.baseurl }}/cad/quad_delta.png"  width="20%" height="20%"/></a>
