@@ -11,3 +11,5 @@ This website is meant to be a complimentary overview of the design methodology o
 * Get started with building a delta robot
 * Control a 2x2 module of delta robots using a custom shield 
 <!-- * Provide insights into our research with an 8x8 delta array grid. -->
+
+NOTE: The website is still in active development and will be updated progressively with all the code for kinematics, control, and learning as soon as documentation is done! Thank you for your patience! :)
