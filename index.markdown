@@ -10,6 +10,7 @@ layout: home
 This website is meant to be a complimentary overview of the design methodology of the delta arrays and provide step-by-step instructions for getting started with the setup. Here we provide a basic tutorial to:
 * Get started with building a delta robot
 * Control a 2x2 module of delta robots using a custom shield 
-<!-- * Provide insights into our research with an 8x8 delta array grid. -->
+* The final 8x8 Array is a design we chose with 16 modular 2x2 modules. The 2x2 modules are designed to be modular and can be used to build any size array.
 
-NOTE: The website is still in active development and will be updated progressively with all the code for kinematics, control, and learning as soon as documentation is done! Thank you for your patience! :)
+Please find code for making the arrays work here: 
+[Learning for Delta Arrays Code](https://github.com/iamlab-cmu/dexterous-manipulation-delta-arrays)
